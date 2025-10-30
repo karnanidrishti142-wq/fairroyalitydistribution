@@ -22,9 +22,7 @@ Our vision is to empower digital artists and their collaborators by providing a 
 - **Cross-Blockchain Compatibility**: Extend the system to support multiple blockchains, making it accessible to more users across different platforms.
 - **Improved Governance**: Implement governance mechanisms allowing stakeholders to vote on changes to the royalty distribution system.
 
-## How to Deploy
-1. **Install Dependencies**:
-   ```bash
+
 
    ## contract details :- 0xf53D21B892A1018C6C904B093A82840681F8F675
 
