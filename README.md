@@ -6,6 +6,7 @@ Fair Art Royalty Distribution System
 ## Project Description
 The **Fair Art Royalty Distribution System** is a smart contract-based platform that facilitates transparent, decentralized royalty distribution to artists and contributors involved in the creation of digital art. This contract ensures that whenever an artwork is sold or monetized, the agreed-upon royalty shares are automatically and fairly distributed to all the contributors (e.g., artists, collaborators, etc.) based on their pre-defined shares.
 
+
 ## Project Vision
 Our vision is to empower digital artists and their collaborators by providing a secure and transparent platform where royalties are distributed automatically based on pre-agreed shares. This removes the possibility of human error or dishonesty, creating a fairer ecosystem for artists.
 
@@ -25,6 +26,8 @@ Our vision is to empower digital artists and their collaborators by providing a 
 
 
    ## contract details :- 0xf53D21B892A1018C6C904B093A82840681F8F675
+
+  
 
    <img width="2849" height="1539" alt="image" src="https://github.com/user-attachments/assets/7970adac-1a31-4d54-94e2-9fcbb3aee594" />
 
